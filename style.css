@@ -41,7 +41,6 @@ body{
   display: flex;
   flex-direction: column;
   min-width:400px ;
-  align-items: center;
   justify-content:center;
   padding: 15px;
   border: 1px solid #fcdcf0f1;
