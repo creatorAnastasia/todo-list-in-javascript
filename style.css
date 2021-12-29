@@ -23,6 +23,8 @@ body{
   text-align: center;
   padding-top: 40px;
   padding-bottom: 40px;
+  display: flex;
+  justify-content: center;
 }
 
 .strike{
@@ -38,7 +40,8 @@ body{
 .todo{
   display: flex;
   flex-direction: column;
-  min-width:700px ;
+  min-width:400px ;
+  align-items: center;
   justify-content:center;
   padding: 15px;
   border: 1px solid #fcdcf0f1;
